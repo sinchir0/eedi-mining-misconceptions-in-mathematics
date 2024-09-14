@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./shell/do_notebook_by_cli.sh eedi-mining-misconceptions-in-mathematics/exp/exp001.ipynb
+./shell/do_notebook_by_cli.sh exp/reranker/e001.ipynb
