@@ -179,3 +179,13 @@ data/*
 # env_file
 env_file/kaggle.json
 env_file/env
+
+# wandb
+exp/reranker/wandb/*
+
+# data
+retrieved_data/
+
+# aws
+exp/reranker/aws/
+exp/reranker/awscliv2.zip
