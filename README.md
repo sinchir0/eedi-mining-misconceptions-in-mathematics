@@ -56,6 +56,18 @@ git push origin main
 
 https://github.com/settings/keys
 
+## Github上でのリポジトリの作成
+```
+`eedi-mining-misconceptions-in-mathematics`という名前のrepoを作成する
+```
+
+```
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/sinchir0/eedi-mining-misconceptions-in-mathematics.git
+git push origin master
+```
 
 ## 環境変数の設定
 ```
