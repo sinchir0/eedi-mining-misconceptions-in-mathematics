@@ -1,0 +1,10 @@
+polars==1.7.1
+transformers==4.44.2
+sentencepiece==0.2.0
+datasets==3.0.0
+evaluate==0.4.3
+seqeval==1.2.2
+accelerate==0.34.2
+python-dotenv==1.0.1
+wandb==0.18.0
+kaggle
