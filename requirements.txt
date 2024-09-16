@@ -7,4 +7,5 @@ seqeval==1.2.2
 accelerate==0.34.2
 python-dotenv==1.0.1
 wandb==0.18.0
+numpy
 kaggle
