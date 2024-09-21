@@ -185,6 +185,7 @@ exp/reranker/wandb/*
 
 # data
 retrieved_data/
+output_log/*
 
 # aws
 exp/reranker/aws/
