@@ -14,3 +14,5 @@ numpy
 kaggle
 vastai
 ruff
+huggingface-hub==0.24.7
+openai
