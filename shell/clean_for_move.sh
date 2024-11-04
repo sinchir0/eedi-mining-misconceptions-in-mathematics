@@ -5,6 +5,6 @@ rm -rf exp/causal/aws
 rm -rf exp/causal/wandb
 rm -rf exp/causal/awscliv2.zip
 rm -rf exp/retriever/wandb
-rm -rf output
+rm -rf output/causal
 rm -rf wandb
 rm -rf awscliv2.zip
