@@ -17,3 +17,5 @@ vastai
 ruff
 huggingface-hub==0.24.7
 openai
+bitsandbytes==0.44.1
+einops
